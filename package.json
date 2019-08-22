@@ -9,13 +9,21 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "fabric": "^3.3.2",
+    "i": "^0.3.6",
+    "mint-ui": "^2.2.13",
+    "npm": "^6.10.3",
+    "vant": "^2.1.2",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.2",
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.10.0",
     "@vue/cli-plugin-eslint": "^3.10.0",
     "@vue/cli-service": "^3.10.0",
     "babel-eslint": "^10.0.1",
+    "babel-plugin-import": "^1.12.0",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "vue-template-compiler": "^2.6.10"
